@@ -1,6 +1,6 @@
 Package: SAMBAR
 Title: Subtyping Agglomerated Mutations By Annotation Relations
-Version: 0.2
+Version: 0.3
 Author: Marieke Lydia Kuijjer
 Maintainer: Marieke Lydia Kuijjer <mkuijjer@jimmy.harvard.edu>
 Description: SAMBAR, or Subtyping Agglomerated Mutations By Annotation
